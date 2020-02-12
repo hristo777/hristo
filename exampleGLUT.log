@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Admin\source\repos\exampleGLUT\main.cpp(106,47): warning C4305:  '+=': truncation from 'double' to 'float'
+  exampleGLUT.vcxproj -> C:\Users\Admin\source\repos\exampleGLUT\Debug\exampleGLUT.exe
